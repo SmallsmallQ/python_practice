@@ -1,4 +1,4 @@
-# 欢迎 issure！
+# 欢迎 issue！
 ---
 
 ## introduction
