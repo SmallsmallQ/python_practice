@@ -1,6 +1,6 @@
 # 欢迎 issue！
 ---
-
+This is only a learning example of the lesson ,so please not copy the code directly onto your homework.Please to understand them.
 ## introduction
 ### school
 Xi'an Jiaotong University
