@@ -1,4 +1,4 @@
-"""
+
 # 案例一 置逆四位整数
 m = int(input("请输入一个4位十进制正整数："))
 a = m // 1000
@@ -63,7 +63,7 @@ print(judge)
 print("%d+%d=%d"%(45,23,45+23))
 a=a.upper()
 print(a)
-"""
+
 # 字符串函数
 s="Xi'an Jiaotong University"
 print(len(s))
